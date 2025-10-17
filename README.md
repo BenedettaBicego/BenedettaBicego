@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Benedetta</h1>
-<h3 align="center">A passionate Unint cs student from Italy,</h3>
+<h2 align="left">Hi, I'm Benedetta</h1>
+<h3 align="center">A Unitn cs student from Italy,</h3>
 
 - 🔭 I’m currently working on [my own website](thepainter.neocities.org) (a very slow work in progress)
 
